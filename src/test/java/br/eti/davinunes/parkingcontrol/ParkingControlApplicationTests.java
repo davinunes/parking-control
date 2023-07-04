@@ -1,4 +1,4 @@
-package br.eti.davinunes.api.parkingcontrol;
+package br.eti.davinunes.parkingcontrol;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

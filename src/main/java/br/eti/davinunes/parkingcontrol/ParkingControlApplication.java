@@ -1,4 +1,4 @@
-package br.eti.davinunes.api.parkingcontrol;
+package br.eti.davinunes.parkingcontrol;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
